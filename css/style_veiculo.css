@@ -1,0 +1,62 @@
+
+#geral{ 
+    width: 500px;
+    min-height: 600px;
+    padding: 10px;
+    margin: 20px auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing:3px;
+    color: rgb(31, 134, 70)
+}
+
+#div-form-veiculo,#lista-veiculo{
+    width:100%;
+    padding:10px;
+    margin: 20px 0px;
+    background-color: rgb(216, 243, 221);
+    color: rgb(59, 80, 67);
+}
+
+#form-veiculo{
+    padding: 15px;
+    font-size: 1.2em;
+}
+
+input{
+    width: 460px;
+    height: 20px;
+}
+button{
+    width:230px;
+    height:30px;
+}
+
+h1{
+   
+    font-size: 1.2em;
+}
+
+
+button{
+    width:230px;
+    height:30px;
+}
+
+input{
+    width: 100%;
+}
+
+#lista-veiculo{
+    width:100%;
+    min-height:450px;
+    color: rgb(76, 8, 139);
+}
+
+h2{
+    text-align: center;
+}
